@@ -1,0 +1,13 @@
+﻿brand_slug,event_type,city_scope,event_date,event_name,source_url,notes
+TSLA,market_entry,national,2013-12-16,上线中国官网并开启预订（Model S/Model X）,https://techcrunch.com/2013/12/16/tesla-china/,TechCrunch：特斯拉上线中国官网并接受预订。
+TSLA,local_production_start,SHANGHAI,2019-01-07,上海超级工厂（Giga Shanghai）破土动工,https://www.xinhuanet.com/english/2019-01/07/c_137726534.htm,新华社：2019-01-07 特斯拉上海工厂开工。
+TSLA,first_deliveries,SHANGHAI,2019-12-30,首批中国制造Model 3交付（员工）,https://www.xinhuanet.com/english/2019-12/30/c_138666545.htm,新华社：2019-12-30 首批交付；随后 2020-01-07 面向公众交付。
+TSLA,first_deliveries_public,SHANGHAI,2020-01-07,中国制造Model 3向公众交付,https://www.reuters.com/article/business/tesla-says-will-start-delivering-china-made-model-3s-to-public-on-jan-7-idUSKBN1Z10CA/,路透：2020-01-07 公共客户交付启动。
+POL,market_entry,SHANGHAI,2020-06-05,上海首家 Polestar Space 开业,https://www.polestar.com/global/news/polestar-shanghai/,Polestar 官方：2020-06-05 上海门店开业，标志入华线下渠道启动。
+GEN,market_entry,SHANGHAI,2021-04-02,官方入华品牌之夜（上海外滩无人机表演）,https://newsroom.genesis.com/genesis-celebrates-official-launch-in-china-unveiling-its-all-new-vision-of-automotive-luxury-to-chinese-customers/,Genesis 官方：2021-04-02 正式进入中国市场。
+ZEEKR,market_entry,national,2021-04-15,品牌发布/001 上市（首个市场为中国）,https://zgh.com/media-center/news/2021-04-15/?lang=en,吉利控股：首个市场为中国，2021年10月开始交付。
+ZEEKR,first_deliveries,national,2021-10-23,首批 Zeekr 001 交付,https://insideevs.com/news/547574/geely-zeekr-001-sales-october2021/,InsideEVs：10月23日首批50辆在宁波交付，当月共交付199辆。
+AITO,brand_launch,national,2021-12-23,AITO M5 发布/开启预售（华为冬季旗舰发布会）,https://autonews.gasgoo.com/china_news/70019408.html,Gasgoo：2021-12-23 华为发布与赛力斯合作的AITO M5。
+AITO,first_deliveries,national,2022-03-06,首批零售交付开启（M5）,https://www.globaltimes.cn/page/202203/1254040.shtml,环球时报：2022-03-06 开始零售交付（HarmonyOS车型）。
+AVATR,market_entry,SHANGHAI,2022-08-08,AVATR 11 全球发布（上海）,https://www.avatr.com/en/news?newsChId=26da322523dbf7d9ad58c1a3dc08eb2c&newsEngId=2ffefb18cf970042e6d5f3d123447567,阿维塔官方：2022-08-08 发布 11/011，并宣布首批体验中心。
+AVATR,first_deliveries,national,2022-12-20,AVATR 11 正式下线并开启当月交付,https://www.avatr.com/en/news?newsChId=c9aeb8089f4851b60f8fdbcaa77ebf62&newsEngId=39da950c612659f37e2cd884850e1c4f,阿维塔官方：2022-12-20 下线，12月内启动交付。

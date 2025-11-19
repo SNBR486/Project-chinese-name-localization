@@ -1,0 +1,7 @@
+﻿brand_slug,event_type,city_scope,event_date,event_name,source_url,notes
+TSLA,first_deliveries_public,national,2020-01-07,中国制造Model 3向公众交付（上海工厂）,https://www.reuters.com/article/business/tesla-says-will-start-delivering-china-made-model-3s-to-public-on-jan-7-idUSKBN1Z10CA/,将该日作为统一锚点（全国关注度最高）。
+POL,market_entry,national,2020-06-05,上海首家 Polestar Space 开业（渠道正式落地）,https://www.polestar.com/global/news/polestar-shanghai/,以线下渠道启动作为锚点。
+GEN,market_entry,national,2021-04-02,Genesis 官方入华（上海品牌发布/渠道计划）,https://newsroom.genesis.com/genesis-celebrates-official-launch-in-china-unveiling-its-all-new-vision-of-automotive-luxury-to-chinese-customers/,官方中国市场发布作为锚点。
+ZEEKR,first_deliveries,national,2021-10-23,首批 Zeekr 001 交付,https://insideevs.com/news/547574/geely-zeekr-001-sales-october2021/,交付启动作为锚点。
+AITO,first_deliveries,national,2022-03-06,AITO M5 首批零售交付开启,https://www.globaltimes.cn/page/202203/1254040.shtml,零售交付启动作为锚点。
+AVATR,first_deliveries,national,2022-12-20,AVATR 11 正式下线并当月开启交付,https://www.avatr.com/en/news?newsChId=c9aeb8089f4851b60f8fdbcaa77ebf62&newsEngId=39da950c612659f37e2cd884850e1c4f,交付启动作为锚点。
